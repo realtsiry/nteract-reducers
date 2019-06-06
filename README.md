@@ -5,11 +5,11 @@ This package contains a set of Redux reducers for use in nteract applications.
 ## Installation
 
 ```
-$ yarn add @nteract/reducers
+$ yarn add git+https://github.com/realtsiry/nteract-reducers.git
 ```
 
 ```
-$ npm install --save @nteract/reducers
+$ npm install --save git+https://github.com/realtsiry/nteract-reducers.git
 ```
 
 ## Usage
